@@ -9,4 +9,4 @@ We are buying carbon credit to use a "dirty" crypto,
 we are avoiding the waste or energy by using the minimum which is required to settle the transaction
 on a ETH L2 chain.
 
-(TobeContinued due Friday)
+This project is a genuine project (no Sybil here !)
