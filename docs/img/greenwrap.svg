@@ -2607,7 +2607,7 @@
      id="text140302-9"><tspan
        id="tspan140300-7"
        x="1019.1736"
-       y="432.18378">ERC 777</tspan></text>
+       y="432.18378">SPL colored</tspan></text>
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 1290.8091,317.09795 v 101.88934 m 0,9.94467 v 7.94467"
@@ -2884,7 +2884,7 @@
        id="tspan7146"
        x="1009.984"
        y="195.46045"
-       style="font-size:13.3333px">(Ethereum)</tspan></text>
+       style="font-size:13.3333px">(Ethereum or Solana)</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
